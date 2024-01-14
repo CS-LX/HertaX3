@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\CS Project\HertaX3\x64\Release\WinUtils.runtimeconfig.json</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\CS Project\HertaX3\x64\Release\WinUtils.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

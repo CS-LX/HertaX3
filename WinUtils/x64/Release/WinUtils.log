@@ -1,0 +1,5 @@
+﻿  WindowsUtils.cpp
+  .NETCoreApp,Version=v7.0.AssemblyAttributes.cpp
+  正在生成代码...
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  WinUtils.vcxproj -> D:\CS Project\HertaX3\x64\Release\WinUtils.dll

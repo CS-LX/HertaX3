@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CS Project\\HertaX3\\HertaX3.csproj": {}
+  },
+  "projects": {
+    "D:\\CS Project\\HertaX3\\HertaX3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CS Project\\HertaX3\\HertaX3.csproj",
+        "projectName": "HertaX3",
+        "projectPath": "D:\\CS Project\\HertaX3\\HertaX3.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "D:\\CS Project\\HertaX3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Development Software\\VS\\Tools\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "PrettyBin": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
