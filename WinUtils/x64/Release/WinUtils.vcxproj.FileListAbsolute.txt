@@ -1,0 +1,4 @@
+D:\CS Project\HertaX3\x64\Release\Ijwhost.dll
+D:\CS Project\HertaX3\x64\Release\WinUtils.deps.json
+D:\CS Project\HertaX3\x64\Release\WinUtils.runtimeconfig.json
+D:\CS Project\HertaX3\WinUtils\x64\Release\WinUtils.genruntimeconfig.cache

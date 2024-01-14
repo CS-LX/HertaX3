@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net7.0": {
+      "WinUtils/1.0.0": {
+        "runtime": {
+          "WinUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
